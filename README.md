@@ -2,8 +2,10 @@
 #### 🎓 Futur Electrical Engieering Student at École de technologie supérieure (ÉTS)
 #### 👾 Trying to learn how to build projects on my own ! 
 #### 🌱 I’m currently learning C/C++
+###  🎯 Thinking about: making a Raze boombot in real life hehe
 #### 🌐 Reachable on LinkedIn
 #### 🤔 Feel free to also contact me on Instagram to contact me : maaxx_dp 
+
 
 <!--
 **maaxxdp/maaxxdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
