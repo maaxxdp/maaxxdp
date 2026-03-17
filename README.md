@@ -2,7 +2,7 @@
 #### 🎓 Futur Electrical Engieering Student at École de technologie supérieure (ÉTS)
 #### 👾 Trying to learn how to build projects on my own ! 
 #### 🌱 I’m currently learning C/C++
-###  🎯 Thinking about: making a Raze boombot in real life hehe
+#### 🎯 Thinking about: making a Raze boombot in real life hehe
 #### 🌐 Reachable on LinkedIn
 #### 🤔 Feel free to also contact me on Instagram to contact me : maaxx_dp 
 
