@@ -1,4 +1,5 @@
-## Hello, my name is Max ! （╯°□°）╯︵◓ 
+# Hello everyone ! 🍎
+## I'm Max and welcome to my GitHub profile.
 #### 🎓 Futur Electrical Engieering Student at École de technologie supérieure (ÉTS)
 #### 👾 Trying to learn how to build projects on my own ! 
 #### 🌱 I’m currently learning C/C++
