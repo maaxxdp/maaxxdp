@@ -1,3 +1,4 @@
+![alt text](https://github.com/maaxxdp/maaxxdp/blob/main/download.gif)
 # Hello everyone ! 🍎
 ## I'm Max and welcome to my GitHub profile.
 #### 🎓 Futur Electrical Engieering Student at École de technologie supérieure (ÉTS)
